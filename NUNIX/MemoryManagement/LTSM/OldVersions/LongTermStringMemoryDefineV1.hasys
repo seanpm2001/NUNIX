@@ -1,0 +1,23 @@
+<Human-applicable-file-type="System">
+<longTermStringMemory>
+
+info = textBox()
+info.textBox<
+LongTerm String Memory is a type of memory that is stored in the mind. It is something that you can pull up at any time (unless you have severe or minor memory loss)
+Some examples of long term string memory include:
+* Things you have done
+* Dreams
+* Things you have learned
+* Anything else in long term memory that isn't numerical or instinctual
+>
+start();
+ltsmCapacity = integer(max) # THe amount of memory is different, depending on the brain device
+ltsmCurrent = 01 # Data here is stored between the 0 and the 1, for numerical short term memory, the data is stored between 2 &s. It won't be stored in the definition file.
+
+</longTermStringMemory>
+<metadata_dev>
+File version: 1 (Wednesday, July 22nd 2020 at 5:15 pm)
+Line count (including blank lines and compiler line): 24
+File type: NUNIX Human Applicable system file
+</metadata_dev>
+end();
