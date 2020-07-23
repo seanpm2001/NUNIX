@@ -1,0 +1,22 @@
+<Human-applicable-file-type="System">
+<shortTermStringMemory>
+
+info = textBox()
+info.textBox<
+Short Term String Memory is a type of memory that is current in the mind. It is something that you normally try to remember, but can forget.
+Some examples of short term string memory include:
+* Things to do
+* Ideas
+* Anything else in current memory that isn't numerical or instinctual
+>
+start();
+stsmCapacity = integer(8000) # 1000 bytes (bit=8*1000=8000)
+stsmCurrent = 0 1 # Data here is stored between the 0 and the 1, for numerical short term memory, the data is stored between 2 &s
+
+</shortTermStringMemory>
+<metadata_dev>
+File version: 1 (Wednesday, July 22nd 2020 at 5:11 pm)
+Line count (including blank lines and compiler line): 23
+File type: NUNIX Human Applicable system file
+</metadata_dev>
+end();
