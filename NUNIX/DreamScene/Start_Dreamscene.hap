@@ -1,0 +1,35 @@
+<Human-applicable-file-type="Program">
+<dreamscene-launcher>
+
+info = textBox()
+info.textBox<
+Dreamscene is the engine that generates and stores dreams. It also adds some functionality that not everyone has, such as generating dreams from memory, being able to spectate in a dream after dying, and more.
+>
+start();
+resolutionX = "500000000000" # 500 Gigapixel for width, 81 Gigapixels more than the current resolution of the human eye
+resolutionY = "500000000000" # 500 Gigapixel for height, 81 Gigapixels more than the current resolution of the human eye
+resolutionZ = "250000000000" # 250 Gigapixel for length, for 3D and 4D dreams
+resolutionA = "250000000000" # 250 Gigapixel for 4 dimensional dreams
+streamFileMimeType = mime("Humind/Dream)
+streamFileType = fileFormat(*.hmdream)
+exportFileMimeType = mime("Humind/Dream)
+exportFileType = fileFormat(*.hmdream)
+maxRunTime = integer(331557600000000) # Time in Milliseconds, I might convert to planck seconds. The duration is set to 1 millennium, just in case of a long coma, or the future possibility of cryogenics. Calculated using the DuckDuckGo Time unit converter. https://duckduckgo.com/?q=1+millennium+to+milliseconds&t=canonical&ia=answer
+programLocation = filePath(//NUNIX/file//DreamScene/Program/Dreamscene.hap)
+sleepMode {
+  sleepModeDefault = time(night)
+  sleepModeAlt1 = time(sunrise)
+  sleepModeAlt2 = time(sunset)
+  sleepModeAlt3 = time(midnight)
+  sleepModeAlt4 = time(noon)
+  sleepModeAlt5 = time(evening)
+}
+startTime = mode(sleepMode; # Sleep mode can be changed from day to night
+
+</dreamscene-launcher>
+<metadata_dev>
+File version: 1 (Wednesday, July 22nd 2020 at 5:34 pm)
+Line count (including blank lines and compiler line): 36
+File type: NUNIX Human Applicable program file
+</metadata_dev>
+end();
