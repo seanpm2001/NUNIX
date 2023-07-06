@@ -1,0 +1,14 @@
+unix
+wiki
+gplv3
+neuroscience
+hap
+brain
+md
+txt
+gpl3
+neurology
+nunix
+brain-operating-system
+human-applicable-program
+far-future
