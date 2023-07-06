@@ -12,3 +12,9 @@ nunix
 brain-operating-system
 human-applicable-program
 far-future
+nunix-project
+nunix-development
+nunix-operating-system
+neural-operating-system
+transhumanism
+c-language
