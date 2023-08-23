@@ -2,9 +2,9 @@
 //// https://github.com/seanpm2001/URLL-Specification
 //// FileName: NUNIX_REPOLIST.urll
 //// URL list for NUNIX repositories
-//// 13 total repository links (as of 2023, Sunday, August 6th at 3:26 pm PST), Version 6
+//// 15 total repository links (as of 2023, Tuesday, August 22nd at 9:10 pm PST), Version 7
 
-//// GitHub (13)
+//// GitHub (15)
 
 https://github.com/seanpm2001/NUNIX
 https://github.com/seanpm2001/NUNIX_SurvivalMode
@@ -19,6 +19,8 @@ https://github.com/seanpm2001/NUNIX_MemoryManager
 https://github.com/seanpm2001/NUNIX-Ethics
 https://github.com/seanpm2001/NUNIX-Guidelines
 https://github.com/seanpm2001/NUNIX_MediaEssentials
+https://github.com/seanpm2001/NUNIX-Docs
+https://github.com/seanpm2001/NUNIX_HAP
 
 //// GitLab (0)
 
@@ -30,7 +32,7 @@ https://github.com/seanpm2001/NUNIX_MediaEssentials
 //// The first note was correct, the second note became inaccurate due to several schedule changes between May and July. A brief revival started from 2023, July 5th to 2023, July 6th. There were a couple more planned for 2023 July, but my schedule was thrown off multiple times.
 
 //// File info
-//// File version: 6 (2023, Sunday, August 6th at 03:26 pm PST)
-//// Line count (including blank lines and compiler line): 37
+//// File version: 7 (2023, Tuesday, August 22nd at 09:10 pm PST)
+//// Line count (including blank lines and compiler line): 39
 
 //// End of file (EOF)
