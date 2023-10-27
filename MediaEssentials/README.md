@@ -8,12 +8,19 @@ NUNIX MediaEssentials are collections of vital, timeless media files that are es
 These are located in separate repositories. You can find the interpreter here:
 
 - [:octocat: `NUNIX MediaEssentials`](https://github.com/seanpm2001/NUNIX_MediaEssentials/)
-- Other repositories in the set not yet available.
+- - - [:octocat: `NUNIX MediaEssentials Documentation`](https://github.com/seanpm2001/NUNIX_MediaEssentials_Docs/)
+- - [:octocat: `NUNIX MediaEssentials Category: Literature`](https://github.com/seanpm2001/NUNIX_MediaEssentials_Literature/)
+- More repositories coming soon
+
+## [Categories](#Categories)
+
+- [`Literature`](/MediaEssentials/Literature/README.md)
+- More categories coming soon
 
 ***
 
 # [File info](#File-info)
 
-**File version:** `1 (2023, Sunday, August 6th at 3:31 pm PST)`
+**File version:** `2 (2023, Thursday, October 26th at 6:22 pm PST)`
 
 ***
