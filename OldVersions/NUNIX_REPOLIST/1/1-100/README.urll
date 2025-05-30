@@ -2,10 +2,10 @@
 //// NUNIX_REPOLIST.urll
 //// https://github.com/seanpm2001/URLL-Specification
 //// A list of all NUNIX project repositories by @seanpm2001
-//// As of 2025, Thursday, April 24th
+//// As of 2025, Thursday, May 29th
 
 //// ----------------------------------------------------- \\\\
-//// NUNIX Project (32)
+//// NUNIX Project (36)
 //// ----------------------------------------------------- \\\\
 
 //// NUNIX Core (1)
@@ -78,9 +78,16 @@ https://github.com/seanpm2001/NUNIX-HAP_DreamScene_Docs
 https://github.com/seanpm2001/NUNIX_Kernel
 https://github.com/seanpm2001/NUNIX_Kernel_Docs
 
+//// NUNIX Emotions (4)
+
+https://github.com/seanpm2001/NUNIX_Emotions_Nostalgia
+https://github.com/seanpm2001/NUNIX_Emotions_Nostalgia_Docs
+https://github.com/seanpm2001/NUNIX_Emotions_Love
+https://github.com/seanpm2001/NUNIX_Emotions_Love_Docs
+
 //// ----------------------------------------------------- \\\\
-//// Repo count (NUNIX): 32
-//// 1+1+6+4+2+2+2+4+2+4+4=32
+//// Repo count (NUNIX): 36
+//// 1+1+6+4+2+2+2+4+2+4+4+4=36
 //// ----------------------------------------------------- \\\\
 
 //// ----------------------------------------------------- \\\\
@@ -92,15 +99,15 @@ https://github.com/seanpm2001/NUNIX_Kernel_Docs
 //// Repo count (See also): 0
 //// 0+0=0
 //// ----------------------------------------------------- \\\\
-//// Total repo count: 32
-//// 32+0=32
+//// Total repo count: 36
+//// 36+0=36
 //// ----------------------------------------------------- \\\\
 
 //// ----------------------------------------------------- \\\\
 //// File info
 //// File type: URLL v3 list file (*.urll)
-//// File version: 10 (2025, Tuesday, April 24th at 06:33 pm PST)
-//// Line count (including blank lines and compiler line): 107
+//// File version: 11 (2025, Thursday, May 29th at 07:05 pm PST)
+//// Line count (including blank lines and compiler line): 114
 //// ----------------------------------------------------- \\\\
 
 //// End of file
