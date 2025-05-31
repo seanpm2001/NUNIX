@@ -2,10 +2,10 @@
 //// NUNIX_REPOLIST.urll
 //// https://github.com/seanpm2001/URLL-Specification
 //// A list of all NUNIX project repositories by @seanpm2001
-//// As of 2025, Thursday, May 29th
+//// As of 2025, Friday, May 30th
 
 //// ----------------------------------------------------- \\\\
-//// NUNIX Project (36)
+//// NUNIX Project (38)
 //// ----------------------------------------------------- \\\\
 
 //// NUNIX Core (1)
@@ -16,19 +16,28 @@ https://github.com/seanpm2001/NUNIX
 
 https://github.com/seanpm2001/NUNIX-Docs
 
-//// NUNIX Survival Mode (6)
+//// NUNIX Survival Mode (2)
 
 https://github.com/seanpm2001/NUNIX_SurvivalMode
 https://github.com/seanpm2001/NUNIX_SurvivalMode_Docs
+
+//// //// NUNIX Survival Mode: Hunger-E (2)
+
 https://github.com/seanpm2001/NUNIX_SurvivalMode_HungerE
 https://github.com/seanpm2001/NUNIX_SurvivalMode_HungerE_Docs
+
+//// //// NUNIX Survival Mode: Safety (2)
+
 https://github.com/seanpm2001/NUNIX_SurvivalMode_Safety
 https://github.com/seanpm2001/NUNIX_SurvivalMode_Safety_Docs
 
-//// NUNIX VoiceBox (4)
+//// NUNIX VoiceBox (2)
 
 https://github.com/seanpm2001/NUNIX_VoiceBox
 https://github.com/seanpm2001/NUNIX_VoiceBox_Docs
+
+//// //// NUNIX VoiceBox: Accent Beyond (2)
+
 https://github.com/seanpm2001/NUNIX_VoiceBox_AccentBeyond
 https://github.com/seanpm2001/NUNIX_VoiceBox_AccentBeyond_docs
 
@@ -59,17 +68,23 @@ https://github.com/seanpm2001/NUNIX_Ethics_Collective-ConsciousNET_Docs
 https://github.com/seanpm2001/NUNIX-Guidelines
 https://github.com/seanpm2001/NUNIX-Guidelines_Docs
 
-//// NUNIX MediaEssentials (4)
+//// NUNIX MediaEssentials (2)
 
 https://github.com/seanpm2001/NUNIX_MediaEssentials
 https://github.com/seanpm2001/NUNIX_MediaEssentials_Docs
+
+//// //// NUNIX MediaEssentials: Literature (2)
+
 https://github.com/seanpm2001/NUNIX_MediaEssentials_Literature
 https://github.com/seanpm2001/NUNIX_MediaEssentials_Literature_Docs
 
-//// NUNIX HAP (4)
+//// NUNIX HAP (2)
 
 https://github.com/seanpm2001/NUNIX_HAP
 https://github.com/seanpm2001/NUNIX_HAP_Docs
+
+//// //// NUNIX HAP: DreamScene (2)
+
 https://github.com/seanpm2001/NUNIX-HAP_DreamScene
 https://github.com/seanpm2001/NUNIX-HAP_DreamScene_Docs
 
@@ -78,16 +93,36 @@ https://github.com/seanpm2001/NUNIX-HAP_DreamScene_Docs
 https://github.com/seanpm2001/NUNIX_Kernel
 https://github.com/seanpm2001/NUNIX_Kernel_Docs
 
-//// NUNIX Emotions (4)
+//// NUNIX Emotions
+
+//// //// NUNIX Emotions: Nostalgia (2)
 
 https://github.com/seanpm2001/NUNIX_Emotions_Nostalgia
 https://github.com/seanpm2001/NUNIX_Emotions_Nostalgia_Docs
+
+//// //// NUNIX Emotions: Love (2)
+
 https://github.com/seanpm2001/NUNIX_Emotions_Love
 https://github.com/seanpm2001/NUNIX_Emotions_Love_Docs
 
+//// //// NUNIX Emotions: Euphoria (2)
+
+https://github.com/seanpm2001/NUNIX_Emotions_Euphoria
+https://github.com/seanpm2001/NUNIX_Emotions_Euphoria_Docs
+
+//// //// NUNIX Emotions: Happiness (2)
+
+https://github.com/seanpm2001/NUNIX_Emotions_Happiness
+https://github.com/seanpm2001/NUNIX_Emotions_Happiness_Docs
+
+//// //// NUNIX Emotions: Sadness (2)
+
+https://github.com/seanpm2001/NUNIX_Emotions_Sadness
+https://github.com/seanpm2001/NUNIX_Emotions_Sadness_Docs
+
 //// ----------------------------------------------------- \\\\
-//// Repo count (NUNIX): 36
-//// 1+1+6+4+2+2+2+4+2+4+4+4=36
+//// Repo count (NUNIX): 42
+//// 1+1+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2=42
 //// ----------------------------------------------------- \\\\
 
 //// ----------------------------------------------------- \\\\
@@ -99,15 +134,15 @@ https://github.com/seanpm2001/NUNIX_Emotions_Love_Docs
 //// Repo count (See also): 0
 //// 0+0=0
 //// ----------------------------------------------------- \\\\
-//// Total repo count: 36
-//// 36+0=36
+//// Total repo count: 42
+//// 42+0=42
 //// ----------------------------------------------------- \\\\
 
 //// ----------------------------------------------------- \\\\
 //// File info
 //// File type: URLL v3 list file (*.urll)
-//// File version: 11 (2025, Thursday, May 29th at 07:05 pm PST)
-//// Line count (including blank lines and compiler line): 114
+//// File version: 12 (2025, Friday, May 30th at 06:04 pm PST)
+//// Line count (including blank lines and compiler line): 149
 //// ----------------------------------------------------- \\\\
 
 //// End of file
