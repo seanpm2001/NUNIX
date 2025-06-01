@@ -2,10 +2,10 @@
 //// NUNIX_REPOLIST.urll
 //// https://github.com/seanpm2001/URLL-Specification
 //// A list of all NUNIX project repositories by @seanpm2001
-//// As of 2025, Friday, May 30th
+//// As of 2025, Saturday, May 31st
 
 //// ----------------------------------------------------- \\\\
-//// NUNIX Project (38)
+//// NUNIX Project (52)
 //// ----------------------------------------------------- \\\\
 
 //// NUNIX Core (1)
@@ -120,9 +120,29 @@ https://github.com/seanpm2001/NUNIX_Emotions_Happiness_Docs
 https://github.com/seanpm2001/NUNIX_Emotions_Sadness
 https://github.com/seanpm2001/NUNIX_Emotions_Sadness_Docs
 
+//// //// NUNIX Emotions: Anger (2)
+
+https://github.com/seanpm2001/NUNIX_Emotions_Anger
+https://github.com/seanpm2001/NUNIX_Emotions_Anger_Docs
+
+//// //// NUNIX Emotions: Fear (2)
+
+https://github.com/seanpm2001/NUNIX_Emotions_Fear
+https://github.com/seanpm2001/NUNIX_Emotions_Fear_Docs
+
+//// //// NUNIX Emotions: Disgust (2)
+
+https://github.com/seanpm2001/NUNIX_Emotions_Disgust
+https://github.com/seanpm2001/NUNIX_Emotions_Disgust_Docs
+
+//// //// NUNIX Emotions: Empathy (2)
+
+https://github.com/seanpm2001/NUNIX_Emotions_Empathy
+https://github.com/seanpm2001/NUNIX_Emotions_Empathy_Docs
+
 //// ----------------------------------------------------- \\\\
-//// Repo count (NUNIX): 42
-//// 1+1+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2=42
+//// Repo count (NUNIX): 52
+//// 1+1+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2=52
 //// ----------------------------------------------------- \\\\
 
 //// ----------------------------------------------------- \\\\
@@ -134,15 +154,15 @@ https://github.com/seanpm2001/NUNIX_Emotions_Sadness_Docs
 //// Repo count (See also): 0
 //// 0+0=0
 //// ----------------------------------------------------- \\\\
-//// Total repo count: 42
-//// 42+0=42
+//// Total repo count: 52
+//// 52+0=52
 //// ----------------------------------------------------- \\\\
 
 //// ----------------------------------------------------- \\\\
 //// File info
 //// File type: URLL v3 list file (*.urll)
-//// File version: 12 (2025, Friday, May 30th at 06:04 pm PST)
-//// Line count (including blank lines and compiler line): 149
+//// File version: 13 (2025, Saturday, May 31st at 06:55 pm PST)
+//// Line count (including blank lines and compiler line): 169
 //// ----------------------------------------------------- \\\\
 
 //// End of file
