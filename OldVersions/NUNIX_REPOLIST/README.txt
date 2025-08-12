@@ -2,10 +2,10 @@
 //// NUNIX_REPOLIST.urll
 //// https://github.com/seanpm2001/URLL-Specification
 //// A list of all NUNIX project repositories by @seanpm2001
-//// As of 2025, Saturday, May 31st
+//// As of 2025, Monday, August 11th
 
 //// ----------------------------------------------------- \\\\
-//// NUNIX Project (52)
+//// NUNIX Project (54)
 //// ----------------------------------------------------- \\\\
 
 //// NUNIX Core (1)
@@ -15,6 +15,11 @@ https://github.com/seanpm2001/NUNIX
 //// NUNIX Documentation core (1)
 
 https://github.com/seanpm2001/NUNIX-Docs
+
+//// NUNIX SNBody Language (2)
+
+https://github.com/seanpm2001/NUNIX_SNBody-Language
+https://github.com/seanpm2001/NUNIX_SNBody-Language_Docs
 
 //// NUNIX Survival Mode (2)
 
@@ -141,8 +146,8 @@ https://github.com/seanpm2001/NUNIX_Emotions_Empathy
 https://github.com/seanpm2001/NUNIX_Emotions_Empathy_Docs
 
 //// ----------------------------------------------------- \\\\
-//// Repo count (NUNIX): 52
-//// 1+1+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2=52
+//// Repo count (NUNIX): 54
+//// 1+1+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2=54
 //// ----------------------------------------------------- \\\\
 
 //// ----------------------------------------------------- \\\\
@@ -161,8 +166,8 @@ https://github.com/seanpm2001/NUNIX_Emotions_Empathy_Docs
 //// ----------------------------------------------------- \\\\
 //// File info
 //// File type: URLL v3 list file (*.urll)
-//// File version: 13 (2025, Saturday, May 31st at 06:55 pm PST)
-//// Line count (including blank lines and compiler line): 169
+//// File version: 14 (2025, Monday, August 11th at 09:21 pm PST)
+//// Line count (including blank lines and compiler line): 174
 //// ----------------------------------------------------- \\\\
 
 //// End of file
