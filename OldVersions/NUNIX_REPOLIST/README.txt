@@ -2,10 +2,10 @@
 //// NUNIX_REPOLIST.urll
 //// https://github.com/seanpm2001/URLL-Specification
 //// A list of all NUNIX project repositories by @seanpm2001
-//// As of 2025, Monday, August 11th
+//// As of 2025, Friday, September 19th
 
 //// ----------------------------------------------------- \\\\
-//// NUNIX Project (54)
+//// NUNIX Project (56)
 //// ----------------------------------------------------- \\\\
 
 //// NUNIX Core (1)
@@ -15,6 +15,11 @@ https://github.com/seanpm2001/NUNIX
 //// NUNIX Documentation core (1)
 
 https://github.com/seanpm2001/NUNIX-Docs
+
+//// NUNIX SNBody (2)
+
+https://github.com/seanpm2001/NUNIX_SNBody
+https://github.com/seanpm2001/NUNIX_SNBody_Docs
 
 //// NUNIX SNBody Language (2)
 
@@ -146,8 +151,8 @@ https://github.com/seanpm2001/NUNIX_Emotions_Empathy
 https://github.com/seanpm2001/NUNIX_Emotions_Empathy_Docs
 
 //// ----------------------------------------------------- \\\\
-//// Repo count (NUNIX): 54
-//// 1+1+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2=54
+//// Repo count (NUNIX): 56
+//// 1+1+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2+2=56
 //// ----------------------------------------------------- \\\\
 
 //// ----------------------------------------------------- \\\\
@@ -159,15 +164,15 @@ https://github.com/seanpm2001/NUNIX_Emotions_Empathy_Docs
 //// Repo count (See also): 0
 //// 0+0=0
 //// ----------------------------------------------------- \\\\
-//// Total repo count: 52
-//// 52+0=52
+//// Total repo count: 56
+//// 56+0=56
 //// ----------------------------------------------------- \\\\
 
 //// ----------------------------------------------------- \\\\
 //// File info
 //// File type: URLL v3 list file (*.urll)
-//// File version: 14 (2025, Monday, August 11th at 09:21 pm PST)
-//// Line count (including blank lines and compiler line): 174
+//// File version: 15 (2025, Friday, September 19th at 08:39 pm PST)
+//// Line count (including blank lines and compiler line): 179
 //// ----------------------------------------------------- \\\\
 
 //// End of file
